@@ -1,5 +1,4 @@
-NetPractice [![hmokhtar's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl9rg4yop01490gjwu202zrsw/project/2846163)](https://github.com/JaeSeoKim/badge42)
-====================
+
 ![netpractice logo](https://raw.githubusercontent.com/Laubester/NetPractice/main/img/NetPractice.png)
 
 <div id="top"></div>
